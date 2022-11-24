@@ -152,6 +152,9 @@ transform: scale(1.4);
 <html>
     <head>
         <meta charset="utf-8">
+        <script src="https://cdn.jsdelivr.net/npm/p5@[p5_version]/lib/p5.js"></script>
+      <script src="sketch.js"></script>
+
         <link rel="stylesheet" href="css/styles.css" type="text/css">
         <title>Land of Ideas</title>
         <link rel="icon" type="image/x-icon" href="images/favicon.ico">
@@ -206,6 +209,17 @@ transform: scale(1.4);
 <br>
 <p>s</p>
     </body>
-  
+
+    <script>
+      function setup()
+      {
+        createCanvas(400, 400);
+      }
+      function draw()
+      {
+        background(220);
+        ellipse(50,50,80,80); 
+      }
+    </script>
 </html>
 
