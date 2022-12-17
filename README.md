@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome 🧶 Check out to see my progress @ 'teorgeos.github.io'
 
 This is a cute lil project by myself to complete my own interactive website portfolio!
 Woud be better to call it as a small world of my artistic ego, I guess.
